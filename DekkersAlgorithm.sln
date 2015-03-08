@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekkersAlgorithmSemaphore", "DekkersAlgorithm\DekkersAlgorithmSemaphore.csproj", "{1FBAF656-AA35-4844-8C85-0BB691769D59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekkersAlgorithmMonitor", "DekkersAlgorithmMonitor\DekkersAlgorithmMonitor.csproj", "{32FA9EB7-134B-492B-B9FD-34CA0C06F013}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DekkersAlgorithmLock", "DekkersAlgorithmLock\DekkersAlgorithmLock.csproj", "{645E6018-1267-4389-BDC1-D89C068B3120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FBAF656-AA35-4844-8C85-0BB691769D59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FBAF656-AA35-4844-8C85-0BB691769D59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FBAF656-AA35-4844-8C85-0BB691769D59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FBAF656-AA35-4844-8C85-0BB691769D59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FA9EB7-134B-492B-B9FD-34CA0C06F013}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FA9EB7-134B-492B-B9FD-34CA0C06F013}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FA9EB7-134B-492B-B9FD-34CA0C06F013}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FA9EB7-134B-492B-B9FD-34CA0C06F013}.Release|Any CPU.Build.0 = Release|Any CPU
+		{645E6018-1267-4389-BDC1-D89C068B3120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{645E6018-1267-4389-BDC1-D89C068B3120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{645E6018-1267-4389-BDC1-D89C068B3120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{645E6018-1267-4389-BDC1-D89C068B3120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
